@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kgameradda.com/sitemap.xml
